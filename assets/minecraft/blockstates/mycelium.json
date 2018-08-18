@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "mycelium",   "y": 0,   "weight": 70 },
+            { "model": "mycelium1",  "y": 0,   "weight": 5 },
+            { "model": "mycelium2",  "y": 0,   "weight": 5 },
+            { "model": "mycelium3",  "y": 0,   "weight": 2 }
+		],
+        "snowy=true": { "model": "mycelium_snowed" }
+		}
+}

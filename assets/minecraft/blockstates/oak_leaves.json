@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "normal":	[
+						{ "model": "leaves/oak_leaves", "weight": 23 },
+						{ "model": "leaves/oak_leaves1", "weight": 5 },
+						{ "model": "leaves/oak_leaves2", "weight": 5 },
+						{ "model": "leaves/oak_leaves3", "weight": 5 },
+						{ "model": "leaves/oak_leaves4", "weight": 3 },
+						{ "model": "leaves/oak_leaves5", "weight": 7 },
+						{ "model": "leaves/oak_leaves6", "weight": 7 },
+						{ "model": "leaves/oak_leaves7", "weight": 7 }
+					]
+				}
+}

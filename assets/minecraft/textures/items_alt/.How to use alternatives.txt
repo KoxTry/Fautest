@@ -1,0 +1,27 @@
+﻿Hello! I see you are looking for some alternative textures.
+
+This is how to change some textures for alternatives I made:
+(If you do not know)
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+--Step 1:
+Rename the desired texture to the name of the item in the 'item' folder.
+
+--Step 2:
+select the desired alternative texture from this folder and copy it.
+(ctrl+ C) Windows		(cmnd+ C) Mac
+
+
+--Step 3:
+go to the "item" folder and paste and replace the texture.
+(ctrl+ V) Windows		(cmnd+ V) Mac
+
+--DONE.
+
+
+
+
+
+hope you enjoy!
+
+-Sapix

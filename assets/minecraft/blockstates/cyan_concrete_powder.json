@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "concrete_powder/cyan_concrete_powder",   "y": 0, "weight": 32 },
+			{ "model": "concrete_powder/cyan_concrete_powder1",  "y": 0, "weight": 32 },
+			{ "model": "concrete_powder/cyan_concrete_powder2",  "y": 0, "weight": 32 },
+			{ "model": "concrete_powder/cyan_concrete_powder3",  "y": 0, "weight": 5 }
+        ]
+    }
+}
